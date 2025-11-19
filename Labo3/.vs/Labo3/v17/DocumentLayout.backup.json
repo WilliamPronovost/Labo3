@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\William Pronovost_2430066\\Labo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|d:\\william pronovost_2430066\\labo3\\assets\\scripts\\playercontrolsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrolsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControlsAtelier1.cs",
+              "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\PlayerControlsAtelier1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControlsAtelier1.cs",
+              "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\PlayerControlsAtelier1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControlsAtelier1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:29:01.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
