@@ -3,16 +3,31 @@
   "WorkspaceRootPath": "D:\\William Pronovost_2430066\\Labo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|d:\\william pronovost_2430066\\labo3\\assets\\scripts\\spherecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|d:\\william pronovost_2430066\\labo3\\assets\\scripts\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\William Pronovost_2430066\\TP2_InfiniteScroller\\Assets\\Scripts\\UI_Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|d:\\william pronovost_2430066\\labo3\\assets\\scripts\\playercontrolsatelier4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrolsatelier4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|D:\\William Pronovost_2430066\\Labo3\\assets\\scripts\\raycastline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|D:\\William Pronovost_2430066\\Labo3\\assets\\scripts\\enemysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|D:\\William Pronovost_2430066\\Labo3\\assets\\scripts\\spherecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spherecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|d:\\william pronovost_2430066\\labo3\\assets\\scripts\\playercontrolsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|D:\\William Pronovost_2430066\\Labo3\\assets\\scripts\\playercontrolsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrolsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|D:\\William Pronovost_2430066\\Labo3\\assets\\scripts\\enemysettingsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52609AE0-D04D-8F60-D6C2-C3095B95B546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemysettingsatelier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +45,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_Manager.cs",
+              "DocumentMoniker": "D:\\William Pronovost_2430066\\TP2_InfiniteScroller\\Assets\\Scripts\\UI_Manager.cs",
+              "RelativeDocumentMoniker": "..\\TP2_InfiniteScroller\\Assets\\Scripts\\UI_Manager.cs",
+              "ToolTip": "D:\\William Pronovost_2430066\\TP2_InfiniteScroller\\Assets\\Scripts\\UI_Manager.cs",
+              "RelativeToolTip": "..\\TP2_InfiniteScroller\\Assets\\Scripts\\UI_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:19:23.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UI_Manager.cs",
+              "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\UI_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Manager.cs",
+              "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\UI_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:08:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControlsAtelier4.cs",
+              "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\PlayerControlsAtelier4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControlsAtelier4.cs",
+              "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\PlayerControlsAtelier4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControlsAtelier4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:44:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaycastLine.cs",
+              "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\RaycastLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastLine.cs",
+              "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\RaycastLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaycastLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T21:28:32.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SphereCreate.cs",
               "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\SphereCreate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SphereCreate.cs",
@@ -38,33 +104,31 @@
               "RelativeToolTip": "Assets\\Scripts\\SphereCreate.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T19:01:48.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T19:01:48.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemySettingsAtelier1.cs",
-              "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\EnemySettingsAtelier1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySettingsAtelier1.cs",
-              "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\EnemySettingsAtelier1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemySettingsAtelier1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EnemySettings.cs",
+              "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\EnemySettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySettings.cs",
+              "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\EnemySettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T17:54:21.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PlayerControlsAtelier1.cs",
               "DocumentMoniker": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\PlayerControlsAtelier1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControlsAtelier1.cs",
               "ToolTip": "D:\\William Pronovost_2430066\\Labo3\\Assets\\Scripts\\PlayerControlsAtelier1.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControlsAtelier1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T17:29:01.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T17:29:01.127Z"
             }
           ]
         }

@@ -27,7 +27,6 @@ public class PlayerControlsAtelier1 : MonoBehaviour
     {
         Moving();
         Jumping();
-        Debug.DrawRay(transform.position, Vector3.down, Color.red);
     }
     private void Moving()
     {
@@ -56,7 +55,7 @@ public class PlayerControlsAtelier1 : MonoBehaviour
 		{
 			if (Physics.Raycast(transform.position, Vector3.down, out RaycastHit raycastHitInfo, 1.01f, m_enemyLayer))
 			{
-				raycastHitInfo.collider.gameObject.GetComponent<EnemySettingsAtelier1>().Kill();
+				raycastHitInfo.collider.gameObject.GetComponent<EnemySettings>().Kill();
 			}
 			else
 			{
